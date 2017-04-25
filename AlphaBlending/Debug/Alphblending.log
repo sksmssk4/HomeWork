@@ -1,0 +1,5 @@
+﻿  Matrices.cpp
+c:\users\administrator.msdn-special\documents\visual studio projects\directxsamples\alphablending\matrices.cpp(35): warning C4100: 'hInst': 참조되지 않은 정식 매개 변수입니다.
+Matrices.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  Alphblending.vcxproj -> C:\Users\Administrator.MSDN-SPECIAL\Documents\Visual Studio Projects\DirectXSamples\AlphaBlending\Debug\Matrices.exe
+  Alphblending.vcxproj -> C:\Users\Administrator.MSDN-SPECIAL\Documents\Visual Studio Projects\DirectXSamples\AlphaBlending\Debug\Matrices.pdb (Full PDB)
